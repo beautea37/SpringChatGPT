@@ -1,4 +1,4 @@
-package com.example.createscripter.model;
+package com.example.springchatgpt.model;
 
 import lombok.Data;
 

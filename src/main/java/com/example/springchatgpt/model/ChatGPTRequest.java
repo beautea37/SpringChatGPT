@@ -1,4 +1,4 @@
-package com.example.createscripter.model;
+package com.example.springchatgpt.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.google.gson.annotations.SerializedName;
